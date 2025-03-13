@@ -1,0 +1,28 @@
+[
+  {
+    "id": "northwoods",
+    "name": {
+      "en": "Northwoods",
+      "es": "",
+      "ua": ""
+    },
+    "alias": {
+      "en": "Enter",
+      "es": "Enter",
+      "ua": "Enter"
+    },
+    "cardImgSrc": "cardImg.png",
+    "mapImgSrc": "mapImg.svg",
+    "resolution": [1920, 1920],
+    "padding": "1900px 1900px 1900px 2020px",
+    "zoom": 1,
+    "minZoom": 1,
+    "maxZoom": 7,
+    "description": {
+      "en": "",
+      "es": "",
+      "ua": ""
+    }
+  }
+  
+]

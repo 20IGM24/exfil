@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="description" content="ATPTR maps">
+  <meta name="keywords" content="ATPTR, map, maps">
+  <meta name="author" content="Longopy, Gitas86, Flaminganus">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ExFil Map</title>
+
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://atptr.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='https://cdn.matomo.cloud/atptr.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+</head>
+
+<body>
+  <div id="hud">
+    <div id="lang-div" class="dropdown lang-div rounded">
+      <div class="btn-group dropdown-center dropend">
+        <button class="btn lang-btn rounded" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <img src="./data/icons/language.svg" width="30" height="24" alt="language icon"/>
+        </button>
+        <div class="dropdown-menu dropdown-menu-wide p-1">
+          <button class="dropdown-item rounded" href="#" id="change-language-btn">
+            <div id="lang-btns"></div>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="attributions-div" class="rounded">
+      <button id="attributions-btn" class="btn rounded p-3F">
+        <img class="logo" src="./data/icons/info.svg" width="20" height="20" alt="information icon"/>
+      </button>
+      <div id="attributions-info" class="rounded hud-btn">
+      </div>
+    </div>
+  </div>
+  <div class="header">
+    <div class="p-5">
+      <div class="container mt-5">
+        <div id="menu-div" class="row">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="body">
+    <img class="mx-auto d-block img-fluid" src="./data/logos/background.png" height="" width="" alt="A Twisted To Renown Background"></img>
+   
+  </div>
+  <script type="module" src="./js/analytics.js"></script>
+  <script type="module" src="./js/main.js"></script>
+  <script type="module" src="./js/lang.js"></script>
+  <script type="module" src="./js/index.js"></script>
+</body>
+
+</html>
