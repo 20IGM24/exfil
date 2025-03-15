@@ -28,7 +28,7 @@ jobs:
         with:
           node-version: 20
       - name: Install dependencies
-        run: npm install
+        run: npm install --cpu=x64 --os=linux sharp
       - name: Build
         run: npm run build
       - name: Copy data folder to build
