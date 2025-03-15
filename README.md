@@ -23,6 +23,9 @@
    ```
 
 #### 2. Copy data folder into build folder.
+   ```
+   cp -r data build
+   ```
 
 #### 3. Preview the project
    ```
