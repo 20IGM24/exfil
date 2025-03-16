@@ -1,15 +1,15 @@
 [
   {
     "name": {
-      "en": "Cash Register",
-      "es": "Caja registradora",
+      "en": "Spawn Points",
+      "es": "Puntos de generación",
       "ua": "Касовий апарат"
     },
     "imgSrc": "cash register.png",
-    "iconName": "cash register.svg",
+    "iconName": "poi.svg",
     "description": {
-      "en": "Loot: money",
-      "es": "Botín: dinero",
+      "en": "Spawn name",
+      "es": "Nombre de generación",
       "ua": "Здобич: гроші"
     },
     "category": "poi",
