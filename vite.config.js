@@ -13,6 +13,7 @@ export default defineConfig({
         attributions_es: resolve(__dirname, "attributions/es.html"),
         attributions_ua: resolve(__dirname, "attributions/ua.html"),
         northwoods: resolve(__dirname, "maps/northwoods.html"),
+        renegadeoil: resolve(__dirname, "maps/renegade_oil.html"),
       },
     },
   },
