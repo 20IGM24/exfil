@@ -1,10 +1,10 @@
 [
   {
-    "id": "northwoods",
+    "id": "renegade_oil",
     "name": {
-      "en": "Northwoods",
-      "es": "Northwoods",
-      "ua": "Northwoods"
+      "en": "Renegade Oil",
+      "es": "Renegade Oil",
+      "ua": "Renegade Oil"
     },
     "alias": {
       "en": "Enter",
@@ -13,8 +13,8 @@
     },
     "cardImgSrc": "cardImg.png",
     "mapImgSrc": "mapImg.svg",
-    "resolution": [4096, 4096],
-    "padding": "1070px 200px 600px 1000px",
+    "resolution": [10000, 6800],
+    "padding": "1200px 200px 600px 3000px",
     "zoom": 1,
     "minZoom": 1,
     "maxZoom": 7,

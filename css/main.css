@@ -2,7 +2,7 @@
   --body-background-color: #000000;
   --background-color: #000000;
   --text-color: #ffffff;
-  --accent-color: #9b3838;
+  --accent-color: #000000;
   --url-color: #c7516f;
   --btn-disabled-tag-btn-color: #fff;
   --btn-disabled-tag-child-btn-color: #b4b4b4;
@@ -19,7 +19,7 @@ body {
   margin: 0;
   height: 100%;
   color: var(--body-background-color) !important;
-  background: linear-gradient(45deg, #dfb1b1 0%, #b17373 50%, #000000 100%);
+  background: linear-gradient(45deg, #000000 0%, #0c0808 50%, #000000 100%);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   position: relative;
   overflow: hidden;

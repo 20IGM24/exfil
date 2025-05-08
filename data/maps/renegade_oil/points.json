@@ -1,0 +1,110 @@
+[
+  {
+    "name": {
+      "en": "Train Depot",
+      "es": "Puntos de generación",
+      "ua": "Касовий апарат"
+    },
+    "imgSrc": "train_depot.png",
+    "iconName": "EXFIL_3.svg",
+    "description": {
+      "en": "Loc: 194 184",
+      "es": "Nombre de generación",
+      "ua": "Здобич: гроші"
+    },
+    "category": "poi",
+    "tag": "Cash Register",
+    "position": [-7,-4]
+    
+  },
+  {
+    "name": {
+      "en": "Can Can",
+      "es": "Puntos de generación",
+      "ua": "Касовий апарат"
+    },
+    "imgSrc": "can_can.png",
+    "iconName": "EXFIL_3.svg",
+    "description": {
+      "en": "Loc: 219 188",
+      "es": "Nombre de generación",
+      "ua": "Здобич: гроші"
+    },
+    "category": "poi",
+    "tag": "Cash Register",
+    "position": [14,-1.25]
+    
+  },
+  {
+    "name": {
+      "en": "Pumping Station",
+      "es": "Puntos de generación",
+      "ua": "Касовий апарат"
+    },
+    "imgSrc": "pumping_station.png",
+    "iconName": "EXFIL_3.svg",
+    "description": {
+      "en": "Loc: 191 204",
+      "es": "Nombre de generación",
+      "ua": "Здобич: гроші"
+    },
+    "category": "poi",
+    "tag": "Cash Register",
+    "position": [-10,10]
+    
+  },
+  {
+    "name": {
+      "en": "Tent City",
+      "es": "Puntos de generación",
+      "ua": "Касовий апарат"
+    },
+    "imgSrc": "tent_city.png",
+    "iconName": "EXFIL_3.svg",
+    "description": {
+      "en": "Loc: 158 209",
+      "es": "Nombre de generación",
+      "ua": "Здобич: гроші"
+    },
+    "category": "poi",
+    "tag": "Cash Register",
+    "position": [-32,15]
+    
+  },  
+  {
+    "name": {
+      "en": "Hog Pen",
+      "es": "Puntos de generación",
+      "ua": "Касовий апарат"
+    },
+    "imgSrc": "hog_pen.png",
+    "iconName": "EXFIL_3.svg",
+    "description": {
+      "en": "Loc: 207 157",
+      "es": "Nombre de generación",
+      "ua": "Здобич: гроші"
+    },
+    "category": "poi",
+    "tag": "Cash Register",
+    "position": [5.3,-23.5]
+    
+  },
+  {
+    "name": {
+      "en": ">>>EXFIL",
+      "es": "Puntos de generación",
+      "ua": "Касовий апарат"
+    },
+    "imgSrc": ">>>EXFIL.png",
+    "iconName": "EXFIL_2_Gray.svg",
+    "description": {
+      "en": "Loc: 193 228",
+      "es": "Nombre de generación",
+      "ua": "Здобич: гроші"
+    },
+    "category": "poi",
+    "tag": "Cash Register",
+    "position": [-5,28]
+    
+  }
+]
