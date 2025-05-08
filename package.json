@@ -6,6 +6,7 @@
     "elm-pep": "^1.0.6",
     "jquery": "^3.6.4",
     "ol": "7.3.0",
+    "sharp": "^0.34.1",
     "vite-plugin-favicons-inject": "^2.2.0"
   },
   "devDependencies": {
