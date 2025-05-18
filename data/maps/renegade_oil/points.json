@@ -109,12 +109,12 @@
   },
     {
     "name": {
-      "en": ">>>ExFIL",
+      "en": "Triple Pump Pass",
       "es": "Puntos de generación",
       "ua": "Касовий апарат"
     },
-    "imgSrc": "EXFIL.png",
-    "iconName": "EXFIL_2_Gray.svg",
+    "imgSrc": "triple_pump_pass.png",
+    "iconName": "EXFIL_3.svg",
     "description": {
       "en": "Loc: 219 214",
       "es": "Nombre de generación",
