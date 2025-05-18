@@ -145,7 +145,7 @@
     },
     {
         "id": "poi",
-        "iconName": "poiheader.svg",
+        "iconName": "extraction.svg",
         "name": {
             "en": "Point of Interest",
             "es": "Punto de interés",
