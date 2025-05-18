@@ -122,7 +122,25 @@
     },
     "category": "poi",
     "tag": ">>>EXFIL",
-    "position": [14,16.5]
+    "position": [15,16.5]
     
-  }
+  },
+    {
+    "name": {
+      "en": ">>>EXFIL",
+      "es": "Puntos de generación",
+      "ua": "Касовий апарат"
+    },
+    "imgSrc": "EXFIL.png",
+    "iconName": "EXFIL_2_Gray.svg",
+    "description": {
+      "en": "Loc: 188 168",
+      "es": "Nombre de generación",
+      "ua": "Здобич: гроші"
+    },
+    "category": "poi",
+    "tag": ">>>EXFIL",
+    "position": [-8.5,-16]
+    
+  }  
 ]
