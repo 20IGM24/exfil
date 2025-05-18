@@ -214,7 +214,7 @@
                 "id": "Cash Register",
                 "iconName": "Cash Register.svg",
                 "name": {
-                    "en": "Cash Register",
+                    "en": "Cash Registerxxx",
                     "es": "Caja registradora",
                     "ua": "Касовий реєстратор"
                 }
@@ -264,8 +264,16 @@
                     "es": "Mochila",
                     "ua": "Рюкзак"
                 }
-            }
-          
+            },
+            {
+                "id": ">>>EXFIL",
+                "iconName": "EXFIL_3.svg",
+                "name": {
+                    "en": ">>>EXFIL",
+                    "es": "Caja registradora",
+                    "ua": "Касовий реєстратор"
+                }
+            }          
         ]
     },
     {

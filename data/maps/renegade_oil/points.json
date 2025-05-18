@@ -13,7 +13,7 @@
       "ua": "Здобич: гроші"
     },
     "category": "poi",
-    "tag": "Cash Register",
+    "tag": ">>>EXFIL",
     "position": [-7,-4]
     
   },
@@ -31,7 +31,7 @@
       "ua": "Здобич: гроші"
     },
     "category": "poi",
-    "tag": "Cash Register",
+    "tag": ">>>EXFIL",
     "position": [14,-1.25]
     
   },
@@ -49,7 +49,7 @@
       "ua": "Здобич: гроші"
     },
     "category": "poi",
-    "tag": "Cash Register",
+    "tag": ">>>EXFIL",
     "position": [-10,10]
     
   },
@@ -67,7 +67,7 @@
       "ua": "Здобич: гроші"
     },
     "category": "poi",
-    "tag": "Cash Register",
+    "tag": ">>>EXFIL",
     "position": [-32,15]
     
   },  
@@ -85,26 +85,44 @@
       "ua": "Здобич: гроші"
     },
     "category": "poi",
-    "tag": "Cash Register",
+    "tag": ">>>EXFIL",
     "position": [5.3,-23.5]
     
   },
   {
     "name": {
-      "en": ">>>EXFIL",
+      "en": "Eagle's Nest",
       "es": "Puntos de generación",
       "ua": "Касовий апарат"
     },
-    "imgSrc": ">>>EXFIL.png",
-    "iconName": "EXFIL_2_Gray.svg",
+    "imgSrc": "eagles_nest.png",
+    "iconName": "EXFIL_3.svg",
     "description": {
       "en": "Loc: 193 228",
       "es": "Nombre de generación",
       "ua": "Здобич: гроші"
     },
     "category": "poi",
-    "tag": "Cash Register",
+    "tag": ">>>EXFIL",
     "position": [-5,28]
+    
+  },
+    {
+    "name": {
+      "en": ">>>ExFIL",
+      "es": "Puntos de generación",
+      "ua": "Касовий апарат"
+    },
+    "imgSrc": "EXFIL.png",
+    "iconName": "EXFIL_2_Gray.svg",
+    "description": {
+      "en": "Loc: 219 214",
+      "es": "Nombre de generación",
+      "ua": "Здобич: гроші"
+    },
+    "category": "poi",
+    "tag": ">>>EXFIL",
+    "position": [14,16.5]
     
   }
 ]
