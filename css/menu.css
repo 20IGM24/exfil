@@ -1,20 +1,20 @@
 .menu-img {
-  width: 100%;
-  height: 200px;
+  width: 100%; /* 100% original - main menu size */
+  height: 200px; /* 200px original - main menu size */
   object-fit: cover;
   border-radius: 5px;
 }
 
 .menu-title {
-  font-size: 18px;
+  font-size: 18px; /* 18px original - Main Menu Map Name Font Size */
 }
 
 .menu-alias {
-  font-size: 15px;
+  font-size: 15px; /* 15px original - Main Menu Enter Font Size */
 }
 
 .menu-item {
-  max-width: 350px;
+  max-width: 350px; /* 350px original - size */
   color: var(--text-color);
 }
 

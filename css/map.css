@@ -8,13 +8,13 @@
 .map .ol-control > button:focus {
   background-color: var(--background-color) !important;
   color: var(--text-color);
-  font-size: 1.75rem;
+  font-size: 1.75rem; /* 1.75rem original */
 }
 
 .map .ol-control {
   background-color: var(--background-color) !important;
   color: var(--text-color);
-  margin: 10px;
+  margin: 10px; /* 10px original - +/- control */
 }
 
 .map .ol-zoom {
@@ -30,15 +30,15 @@
 
 .popup-name-text {
   margin-bottom: 0;
-  padding: 10px !important;
+  padding: 10px !important; /* 10px original - */
   color: var(--text-color);
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 16px; /* 12px original - map label fonts*/
 }
 
 .popup-info-card {
-  width: 375px;
+  width: 375px; /* 375px original - card size */
 }
 
 .popover {
@@ -56,8 +56,8 @@
 #map-logo {
   position: absolute;
   z-index: 999;
-  bottom: 20px;
-  right: 100px;
+  bottom: 20px; /* 20px original - Logo */
+  right: 100px; /* 100px original - Logo */
   text-align: center;
 }
 
@@ -66,5 +66,5 @@
 }
 
 .hud-btn {
-  padding: 12px;
+  padding: 12px; /* 12px original - HUD */
 }

@@ -11,7 +11,7 @@
 * {
   font-size: 100%;
   font-family: Montserrat, sans-serif !important;
-  font-size: 14px;
+  font-size: 14px; /* 14px original, 40px works */ 
 }
 
 html,

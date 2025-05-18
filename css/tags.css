@@ -2,32 +2,35 @@
   position: absolute;
   background-color: var(--background-color);
   z-index: 9999;
-  top: 18px;
-  left: 95px;
+  top: 18px; /* 18px - Tag Selector Location */
+  left: 95px; /* 95px - Tag Selector Location */
 }
 
 #tag-selector {
   display: none;
-  height: calc(100vh - 100px);
+  /* height: calc(100vh - 100px); /* 100vh 100px original - box height COMMENTED OUT */ 
   position: absolute;
   background-color: var(--background-color);
   z-index: 9999;
-  top: 85px;
-  left: 18px;
-  max-width: 510px;
+  top: 85px; /* 85px original - Menu */
+  left: 18px; /* 18px original - Menu */
+  width: 300px; /* 300px original - Menu Width ADDED */
+  /* max-width: 300px; /* 510px original - */
   animation: fadeIn 0.05s linear;
-  padding: 0 20px 0 20px;
+  padding: 0 0px 0 0px; /* 0 20px 0 20px original - */
 }
 
 #tag-selector-content {
-  height: 100%;
-  overflow: scroll;
+  /* height: 100%; /* 100% - ADDED */
+  /* overflow: scroll; - commented out */
 }
 
 .tag-btn,
 .tag-child-btn {
-  font-size: 12px !important;
+  font-size: 16px !important; /* 12px original - menu font size */
   text-transform: uppercase;
+  padding: 0 0px 0 0px; /* 0 20px 0 20px original - ADDED */  
+  margin: 0px;  /* 0px original - ADDED */  
 }
 
 .tag-btn.selected,
@@ -66,8 +69,8 @@
   position: absolute;
   background-color: var(--background-color);
   z-index: 9999;
-  top: 18px;
-  left: 165px;
+  top: 18px; /* 18px original - */
+  left: 165px; /* 165px original - */
 }
 
 #qtag-selector {
