@@ -147,7 +147,7 @@
         "id": "poi",
         "iconName": "extraction.svg",
         "name": {
-            "en": "Points of Interest",
+            "en": "Points of Interest         ",
             "es": "Punto de interés",
             "ua": "Пункт інтересу"
         },
@@ -269,7 +269,7 @@
                 "id": ">>>EXFIL",
                 "iconName": "EXFIL_3.svg",
                 "name": {
-                    "en": ">>>EXFIL",
+                    "en": ">>>EXFIL      ",
                     "es": "Caja registradora",
                     "ua": "Касовий реєстратор"
                 }
