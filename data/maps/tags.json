@@ -1,13 +1,13 @@
 [
     {
         "id": "loot",
-        "iconName": "loot.svg",
+        "iconName": "spawn_2.svg",
         "name": {
-            "en": "Loot",
+            "en": "Spawns",
             "es": "Botín",
             "ua": "Здобич"
         },
-        "color": "#006400",
+        "color": "#002B00", 
         "children": [
            
             {
@@ -60,14 +60,23 @@
                     "es": "pickaxe",
                     "ua": "pickaxe"
                 }
+            },
+                        {
+                "id": "spawn",
+                "iconName": "spawn_3.svg",
+                "name": {
+                    "en": "Infil",
+                    "es": "pickaxe",
+                    "ua": "pickaxe"
+                }
             }
         ]
     },
     {
         "id": "extraction",
-        "iconName": "extraction.svg",
+        "iconName": "objective.svg",
         "name": {
-            "en": "Extraction",
+            "en": "Objectives",
             "es": "Extracción",
             "ua": "Вилучення"
         },
@@ -87,6 +96,15 @@
                 "iconName": "extract.svg",
                 "name": {
                     "en": "Free Exit",
+                    "es": "Salida gratuita",
+                    "ua": "Безкоштовна вихід"
+                }
+            },
+                        {
+                "id": "ob1",
+                "iconName": "objective_3.svg",
+                "name": {
+                    "en": "Intel",
                     "es": "Salida gratuita",
                     "ua": "Безкоштовна вихід"
                 }
@@ -363,4 +381,5 @@
             
         ]
     }
+  
 ]

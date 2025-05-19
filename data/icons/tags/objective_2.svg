@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="64"
+   viewBox="0 0 345.75 489.31"
+   width="64"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="objective_2.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="12.890625"
+     inkscape:cx="32.038788"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <circle
+     cx="171.52"
+     cy="218.65"
+     fill="#3c93d4"
+     r="166.3"
+     stroke="#1d1d1b"
+     stroke-miterlimit="10"
+     stroke-width="10"
+     id="circle1"
+     style="fill:#0000ff" />
+  <path
+     style="opacity:0;fill:#000080;stroke-width:0.0775758"
+     d="m 30.797576,49.641027 c -3.27553,-0.24093 -5.744389,-0.897623 -8.424592,-2.24086 -5.987384,-3.000696 -10.187681,-8.685913 -11.31014,-15.308583 -0.502281,-2.963532 -0.361335,-5.941125 0.42253,-8.926292 0.375481,-1.42993 0.710128,-2.308861 1.465458,-3.848928 2.139724,-4.362761 5.750732,-7.870604 10.182778,-9.8918598 1.742138,-0.7945105 3.602486,-1.3415688 5.724572,-1.6833813 1.226613,-0.1975753 4.671676,-0.1966892 5.934545,0.00153 6.91937,1.0860408 12.682723,5.2131691 15.783026,11.3021991 1.101123,2.162619 1.796713,4.396777 2.149589,6.904243 0.15411,1.095077 0.134892,4.376277 -0.03214,5.488388 -0.872931,5.811834 -3.748257,10.636278 -8.425749,14.13737 -2.812919,2.105463 -6.554163,3.568699 -10.095327,3.948378 -0.851311,0.09128 -2.806987,0.159546 -3.374545,0.1178 z"
+     id="path1"
+     transform="matrix(7.6454687,0,0,7.6454687,-71.78,0)" />
+</svg>

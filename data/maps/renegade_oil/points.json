@@ -142,5 +142,42 @@
     "tag": ">>>EXFIL",
     "position": [-8.5,-16]
     
-  }  
+  },
+    {
+    "name": {
+      "en": "Bulls Spawn",
+      "es": "Puntos de generación",
+      "ua": "Касовий апарат"
+    },
+    "imgSrc": "", 
+    "iconName": "invisible.svg",
+    "description": {
+      "en": "",
+      "es": "Nombre de generación",
+      "ua": "Здобич: гроші"
+    },
+    "category": "poi",
+    "tag": "spawn",
+    "position": [27.3,21]
+    
+  },     
+  {
+    "name": {
+      "en": "Objective 1",
+      "es": "Puntos de generación",
+      "ua": "Касовий апарат"
+    },
+    "imgSrc": "", 
+    "iconName": "transparent.svg",
+    "description": {
+      "en": "",
+      "es": "Nombre de generación",
+      "ua": "Здобич: гроші"
+    },
+    "category": "poi",
+    "tag": "ob1",
+    "position": [9,9]
+    
+  }     
+  
 ]
