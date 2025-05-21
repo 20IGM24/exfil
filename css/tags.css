@@ -14,7 +14,7 @@
   z-index: 9999;
   top: 85px; /* 85px original - Menu */
   left: 18px; /* 18px original - Menu */
-  width: 300px; /* 300px original - Menu Width ADDED */
+  width: 500px; /* 300px original - Menu Width ADDED */
   /* max-width: 300px; /* 510px original - */
   animation: fadeIn 0.05s linear;
   padding: 0 0px 0 0px; /* 0 20px 0 20px original - */

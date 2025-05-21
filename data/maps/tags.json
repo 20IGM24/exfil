@@ -61,15 +61,24 @@
                     "ua": "pickaxe"
                 }
             },
-                        {
+            {
                 "id": "spawn",
                 "iconName": "spawn_3.svg",
                 "name": {
-                    "en": "Infil",
+                    "en": "Infiltration Sites",
                     "es": "pickaxe",
                     "ua": "pickaxe"
                 }
-            }
+            },
+                      {
+                "id": "Reinforcement Drop",
+                "iconName": "spawn_3.svg",
+                "name": {
+                    "en": "Infil 2",
+                    "es": "pickaxe",
+                    "ua": "pickaxe"
+                }
+            } 
         ]
     },
     {
@@ -100,15 +109,16 @@
                     "ua": "Безкоштовна вихід"
                 }
             },
-                        {
+            {
                 "id": "ob1",
                 "iconName": "objective_3.svg",
                 "name": {
-                    "en": "Intel",
+                    "en": "Intelligence Drops",
                     "es": "Salida gratuita",
                     "ua": "Безкоштовна вихід"
                 }
             }
+
         ]
     },
     {
@@ -287,11 +297,12 @@
                 "id": ">>>EXFIL",
                 "iconName": "EXFIL_3.svg",
                 "name": {
-                    "en": ">>>EXFIL",
+                    "en": ">>>EXFIL Sites",
                     "es": "Caja registradora",
                     "ua": "Касовий реєстратор"
                 }
-            }          
+            }
+          
         ]
     },
     {
