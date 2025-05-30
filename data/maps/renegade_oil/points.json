@@ -127,30 +127,12 @@
   },
     {
     "name": {
-      "en": ">>>EXFIL",
+      "en": "The Pit",
       "es": "Puntos de generación",
       "ua": "Касовий апарат"
     },
     "imgSrc": "EXFIL.png",
-    "iconName": "EXFIL_2_Gray.svg",
-    "description": {
-      "en": "Loc: 188 168",
-      "es": "Nombre de generación",
-      "ua": "Здобич: гроші"
-    },
-    "category": "poi",
-    "tag": ">>>EXFIL",
-    "position": [-8.5,-16]
-    
-  },
-      {
-    "name": {
-      "en": ">>>EXFIL",
-      "es": "Puntos de generación",
-      "ua": "Касовий апарат"
-    },
-    "imgSrc": "EXFIL.png",
-    "iconName": "EXFIL_2_Gray.svg",
+    "iconName": "EXFIL_3.svg",
     "description": {
       "en": "Loc: 188 168",
       "es": "Nombre de generación",
